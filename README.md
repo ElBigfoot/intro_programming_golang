@@ -15,6 +15,6 @@ Caleb Doxsey Introductory Golang Code
  * An Example Program
 
 ## Control Structures
- *For
- *If
- *Switch
+ * For
+ * If
+ * Switch
