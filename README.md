@@ -1,8 +1,8 @@
 # intro_programming_golang
 Caleb Doxsey Introductory Golang Code
 
-## 2 Your firs program
-   * Hoe to read a Go program
+## 2 Your first program
+   * How to read a Go program
 ## 3 Types
  3.1 Numbers
  3.2 Strings
