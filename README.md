@@ -1,2 +1,12 @@
 # intro_programming_golang
-Caleb Doxsey introductory golang code
+Caleb Doxsey Introductory Golang Code
+
+
+##
+
+##
+
+##
+ *
+ *
+ *
