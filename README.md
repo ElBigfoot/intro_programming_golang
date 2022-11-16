@@ -2,11 +2,17 @@
 Caleb Doxsey Introductory Golang Code
 
 
-##
+##Types
+ *
+ *
+ *
 
-##
+##Variables
+ *
+ * 
+ * 
 
-##
+##Control Structures
  *
  *
  *
