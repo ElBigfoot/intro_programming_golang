@@ -2,17 +2,19 @@
 Caleb Doxsey Introductory Golang Code
 
 
-##Types
- *
- *
- *
+## Types
+ - Numbers
+ - Strings
+ - Booleans
 
-##Variables
- *
- * 
- * 
+## Variables
+ * How to make a Variable
+ * Scope
+ * Constant
+ * Defining Multiple Variables
+ * An Example Program
 
-##Control Structures
- *
- *
- *
+## Control Structures
+ *For
+ *If
+ *Switch
