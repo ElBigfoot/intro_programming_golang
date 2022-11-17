@@ -23,4 +23,7 @@ Caleb Doxsey Introductory Golang Code
  * 6.1 Arrays
  * 6.2 Slices
  * 6.3 Maps
- 
+## Functions
+* Your secon Function
+* Returning multiplee values
+*
